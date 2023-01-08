@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+
+}
+/* header style */
+.container{
+    position: relative;
+    
+}
+.banner{
+    position: absolute;
+   bottom: 216px;
+   padding-right: 230px;
+   padding-left: 845px;
+   text-align: right;
+   
+}
+.header-title{
+    font-weight: 700;
+    font-size: 65px;
+    color: #FFFFFF;
+}
+.header-subtitle{
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 32px;
+    color: #FFFFFF;
+}
+.header-btn{
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    margin-top: 32px;
+    padding: 21px 24px 20px 26px;
+}
+    
+.my-detils{
+    display: flex;
+    margin-top: 133px;
+    margin-left: 206px;
+    margin-right: 322px;
+}
+
+.my-image-detils{
+    padding-left: 87px;
+}
+.image-detils-head{
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    padding-top: 240px;
+}
+.image-detils-pragraph{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 16px;
+    
+    
+}
+.image-detils-ul{
+    list-style: none;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+}
+.image-detils-ul>li{
+    margin-bottom: 8px;
+}
+.plan-head{
+    padding-top: 130px;
+    text-align: center;
+    font-weight: 700;
+font-size: 40px;
+color: #151414;
+}
+.plan-group{
+    display: flex;
+    padding-top: 50px;
+    padding-left: 230px;
+    align-items: center;
+    
+}
+.plan-body{
+    padding-right: 86px;
+}
+.plan-title{
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    text-align: center;
+    padding-bottom: 16px;
+}
+.plan-subtitle{
+    font-weight: 500;
+font-size: 25px;
+color: #737272;
+text-align: center;
+}
+.plan-image{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 24px;
+}
+footer{
+    background: #151414;
+    margin-top: 130px;
+    padding: 130px;
+    display: flex;
+}
+footer h3{
+    font-weight: 700;
+font-size: 45px;
+color: #F8F8F8;
+padding-top: 16px;
+}
+footer p{
+    font-weight: 400;
+font-size: 16px;
+color:white;
+margin-bottom: 32px;
+}
+.footer-main{
+    padding-right: 331px;
+}
+footer a{
+    padding-right: 18px;
+    text-decoration: none;
+}
+.footer-email{
+    font-weight: 400;
+    font-size: 18px;
+    color: #F3F3F3;
+    background: #151414;
+    margin-top: 31px;
+    padding: 21px 158px 22px 21px ;
+}
+.btn-footer{
+    font-weight: 600;
+font-size: 20px;
+color: #FFFFFF;
+background: #005FAC;
+padding: 20px 36px;
+margin-top: 16px;
+border-radius: 10px;
+
+}
