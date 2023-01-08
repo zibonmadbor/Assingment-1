@@ -3,134 +3,153 @@
     font-family: 'Work Sans', sans-serif;
 
 }
+
 /* header style */
-.container{
+.container {
     position: relative;
-    
+
 }
-.banner{
+
+.banner {
     position: absolute;
-   bottom: 216px;
-   padding-right: 230px;
-   padding-left: 845px;
-   text-align: right;
-   
+    bottom: 216px;
+    padding-right: 230px;
+    padding-left: 845px;
+    text-align: right;
+
 }
-.header-title{
+
+.header-title {
     font-weight: 700;
     font-size: 65px;
     color: #FFFFFF;
 }
-.header-subtitle{
+
+.header-subtitle {
     font-weight: 400;
     font-size: 16px;
     margin-top: 32px;
     color: #FFFFFF;
 }
-.header-btn{
+
+.header-btn {
     font-weight: 600;
     font-size: 20px;
     color: #005FAC;
     margin-top: 32px;
     padding: 21px 24px 20px 26px;
     border: 1px solid #000000;
-text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
-border-radius: 5px;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 5px;
 }
-    
-.my-detils{
+
+.my-detils {
     display: flex;
     margin-top: 133px;
     margin-left: 206px;
     margin-right: 322px;
 }
 
-.my-image-detils{
+.my-image-detils {
     padding-left: 87px;
 }
-.image-detils-head{
+
+.image-detils-head {
     font-weight: 700;
     font-size: 40px;
     color: #151414;
     padding-top: 240px;
 }
-.image-detils-pragraph{
+
+.image-detils-pragraph {
     font-weight: 400;
     font-size: 16px;
     color: #444343;
     margin-top: 24px;
     margin-bottom: 16px;
-    
-    
+
+
 }
-.image-detils-ul{
+
+.image-detils-ul {
     list-style: none;
     font-weight: 400;
     font-size: 16px;
     color: #444343;
 }
-.image-detils-ul>li{
+
+.image-detils-ul>li {
     margin-bottom: 8px;
 }
-.plan-head{
+
+.plan-head {
     padding-top: 130px;
     text-align: center;
     font-weight: 700;
-font-size: 40px;
-color: #151414;
+    font-size: 40px;
+    color: #151414;
 }
-.plan-group{
+
+.plan-group {
     display: flex;
     padding-top: 50px;
     padding-left: 230px;
     align-items: center;
-    
+
 }
-.plan-body{
+
+.plan-body {
     padding-right: 86px;
 }
-.plan-title{
+
+.plan-title {
     font-weight: 700;
     font-size: 30px;
     color: #151414;
     text-align: center;
     padding-bottom: 16px;
 }
-.plan-subtitle{
+
+.plan-subtitle {
     font-weight: 500;
-font-size: 25px;
-color: #737272;
-text-align: center;
+    font-size: 25px;
+    color: #737272;
+    text-align: center;
 }
-.plan-image{
+
+.plan-image {
     display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding-bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 24px;
 }
-.b-image-containar{
+
+.b-image-containar {
     position: relative;
 }
-.b-image{
+
+.b-image {
     background-image: url(../images/watch.png);
     margin-top: 130px;
     margin-left: 230px;
 }
-.b-image-head{
+
+.b-image-head {
     position: absolute;
     bottom: 59px;
-    
+
     padding-left: 294px;
     padding-right: 847px;
 }
-.b-image-p{
+
+.b-image-p {
     font-weight: 700;
-font-size: 40px;
-color: #FFFFFF;
-margin-bottom: 24px;
+    font-size: 40px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
 }
 
-.b-image-btn{
+.b-image-btn {
     font-weight: 600;
     font-size: 20px;
     color: #005FAC;
@@ -147,46 +166,52 @@ margin-bottom: 24px;
 
 
 
-footer{
+footer {
     background: #151414;
     margin-top: 130px;
     padding: 130px;
     display: flex;
 }
-footer h3{
+
+footer h3 {
     font-weight: 700;
-font-size: 45px;
-color: #F8F8F8;
-padding-top: 16px;
+    font-size: 45px;
+    color: #F8F8F8;
+    padding-top: 16px;
 }
-footer p{
+
+footer p {
     font-weight: 400;
-font-size: 16px;
-color:white;
-margin-bottom: 32px;
+    font-size: 16px;
+    color: white;
+    margin-bottom: 32px;
 }
-.footer-main{
+
+.footer-main {
     padding-right: 331px;
 }
-footer a{
+
+footer a {
     padding-right: 18px;
     text-decoration: none;
 }
-.footer-email{
+
+.footer-email {
     font-weight: 400;
     font-size: 18px;
     color: #F3F3F3;
     background: #151414;
     margin-top: 31px;
-    padding: 21px 158px 22px 21px ;
+    padding: 21px 158px 22px 21px;
 }
-.btn-footer{
+
+.btn-footer {
     font-weight: 600;
-font-size: 20px;
-color: #FFFFFF;
-background: #005FAC;
-padding: 20px 36px;
-margin-top: 16px;
-border-radius: 10px;
+    font-size: 20px;
+    color: #FFFFFF;
+    background: #005FAC;
+    padding: 20px 36px;
+    margin-top: 16px;
+    border-radius: 10px;
 
 }
